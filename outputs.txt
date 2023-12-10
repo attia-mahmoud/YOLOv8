@@ -1,0 +1,1 @@
+class   coords1   coords2   coords3   coords4   confidence_value   objectID

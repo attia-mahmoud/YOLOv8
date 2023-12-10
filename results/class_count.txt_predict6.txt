@@ -1,0 +1,5 @@
+person: 4
+bottle: 1
+chair: 6
+laptop: 1
+cell phone: 1

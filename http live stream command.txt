@@ -1,0 +1,1 @@
+libcamera-vid -t 0 -o - --framerate 5 | cvlc -vvv stream:///dev/stdin --sout '#standard{access=http,mux=ts,dst=:8160}' :demux=h264

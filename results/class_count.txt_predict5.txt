@@ -1,0 +1,4 @@
+person: 3
+tv: 1
+cell phone: 1
+clock: 1
